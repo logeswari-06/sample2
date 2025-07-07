@@ -1,1 +1,0 @@
-Exercising the branch creation operation in GitHub..
